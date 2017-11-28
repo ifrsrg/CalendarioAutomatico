@@ -1,0 +1,16 @@
+.table{
+	width: 350px;
+		
+}
+
+.table td{
+	border: 1px solid black;
+	height: 40px;
+	width: 50px;
+}
+	
+.table th{
+	width: 50px;
+	background-color: green;
+}
+
